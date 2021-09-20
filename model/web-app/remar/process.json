@@ -1,0 +1,314 @@
+{
+  "name": "Domino",
+  "uri": "domino",
+  "type": "unity",
+  "version": 1,
+  "tasks": [
+    {
+      "name": "Peças",
+      "uri": "tile",
+      "description": "Criar/editar/selecionar uma peça para o jogo.",
+      "type": "image_collection",
+      "dependencies": null,
+      "outputs": [
+        {
+          "name": "title.txt",
+          "type": "txt",
+          "path": ""
+        },
+        {
+          "name": "room_code.txt",
+          "type": "txt",
+          "path": ""
+        },
+        {
+          "name": "description_0.txt",
+          "type": "txt",
+          "path": ""
+        },
+        {
+          "name": "description_1.txt",
+          "type": "txt",
+          "path": ""
+        },
+        {
+          "name": "description_2.txt",
+          "type": "txt",
+          "path": ""
+        },
+        {
+          "name": "description_3.txt",
+          "type": "txt",
+          "path": ""
+        },
+        {
+          "name": "description_4.txt",
+          "type": "txt",
+          "path": ""
+        },
+        {
+          "name": "description_5.txt",
+          "type": "txt",
+          "path": ""
+        },
+        {
+          "name": "description_6.txt",
+          "type": "txt",
+          "path": ""
+        },
+        {
+          "name": "Image00.png",
+          "type": "png",
+          "path": ""
+        },
+        {
+          "name": "Image01.png",
+          "type": "png",
+          "path": ""
+        },
+        {
+          "name": "Image02.png",
+          "type": "png",
+          "path": ""
+        },
+        {
+          "name": "Image03.png",
+          "type": "png",
+          "path": ""
+        },
+        {
+          "name": "Image04.png",
+          "type": "png",
+          "path": ""
+        },
+        {
+          "name": "Image05.png",
+          "type": "png",
+          "path": ""
+        },
+        {
+          "name": "Image06.png",
+          "type": "png",
+          "path": ""
+        },
+        {
+          "name": "Image10.png",
+          "type": "png",
+          "path": ""
+        },
+        {
+          "name": "Image11.png",
+          "type": "png",
+          "path": ""
+        },
+        {
+          "name": "Image12.png",
+          "type": "png",
+          "path": ""
+        },
+        {
+          "name": "Image13.png",
+          "type": "png",
+          "path": ""
+        },
+        {
+          "name": "Image14.png",
+          "type": "png",
+          "path": ""
+        },
+        {
+          "name": "Image15.png",
+          "type": "png",
+          "path": ""
+        },
+        {
+          "name": "Image16.png",
+          "type": "png",
+          "path": ""
+        },
+        {
+          "name": "Image20.png",
+          "type": "png",
+          "path": ""
+        },
+        {
+          "name": "Image21.png",
+          "type": "png",
+          "path": ""
+        },
+        {
+          "name": "Image22.png",
+          "type": "png",
+          "path": ""
+        },
+        {
+          "name": "Image23.png",
+          "type": "png",
+          "path": ""
+        },
+        {
+          "name": "Image24.png",
+          "type": "png",
+          "path": ""
+        },
+        {
+          "name": "Image25.png",
+          "type": "png",
+          "path": ""
+        },
+        {
+          "name": "Image26.png",
+          "type": "png",
+          "path": ""
+        },
+        {
+          "name": "Image30.png",
+          "type": "png",
+          "path": ""
+        },
+        {
+          "name": "Image31.png",
+          "type": "png",
+          "path": ""
+        },
+        {
+          "name": "Image32.png",
+          "type": "png",
+          "path": ""
+        },
+        {
+          "name": "Image33.png",
+          "type": "png",
+          "path": ""
+        },
+        {
+          "name": "Image34.png",
+          "type": "png",
+          "path": ""
+        },
+        {
+          "name": "Image35.png",
+          "type": "png",
+          "path": ""
+        },
+        {
+          "name": "Image36.png",
+          "type": "png",
+          "path": ""
+        },
+        {
+          "name": "Image40.png",
+          "type": "png",
+          "path": ""
+        },
+        {
+          "name": "Image41.png",
+          "type": "png",
+          "path": ""
+        },
+        {
+          "name": "Image42.png",
+          "type": "png",
+          "path": ""
+        },
+        {
+          "name": "Image43.png",
+          "type": "png",
+          "path": ""
+        },
+        {
+          "name": "Image44.png",
+          "type": "png",
+          "path": ""
+        },
+        {
+          "name": "Image45.png",
+          "type": "png",
+          "path": ""
+        },
+        {
+          "name": "Image46.png",
+          "type": "png",
+          "path": ""
+        },
+        {
+          "name": "Image50.png",
+          "type": "png",
+          "path": ""
+        },
+        {
+          "name": "Image51.png",
+          "type": "png",
+          "path": ""
+        },
+        {
+          "name": "Image52.png",
+          "type": "png",
+          "path": ""
+        },
+        {
+          "name": "Image53.png",
+          "type": "png",
+          "path": ""
+        },
+        {
+          "name": "Image54.png",
+          "type": "png",
+          "path": ""
+        },
+        {
+          "name": "Image55.png",
+          "type": "png",
+          "path": ""
+        },
+        {
+          "name": "Image56.png",
+          "type": "png",
+          "path": ""
+        },
+        {
+          "name": "Image60.png",
+          "type": "png",
+          "path": ""
+        },
+        {
+          "name": "Image61.png",
+          "type": "png",
+          "path": ""
+        },
+        {
+          "name": "Image62.png",
+          "type": "png",
+          "path": ""
+        },
+        {
+          "name": "Image63.png",
+          "type": "png",
+          "path": ""
+        },
+        {
+          "name": "Image64.png",
+          "type": "png",
+          "path": ""
+        },
+        {
+          "name": "Image65.png",
+          "type": "png",
+          "path": ""
+        },
+        {
+          "name": "Image66.png",
+          "type": "png",
+          "path": ""
+        }
+      ]
+    }
+  ],
+  "outputs": [
+    "desktop"
+  ],
+  "vars": {
+    "width": 816,
+    "height": 616
+  }
+}
